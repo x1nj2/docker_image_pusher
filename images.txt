@@ -5,3 +5,4 @@ mysql
 mariadb
 mcr.microsoft.com/mssql/server:2022-latest
 python:3.11.9
+gitea/gitea
