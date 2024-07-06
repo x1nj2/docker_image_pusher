@@ -7,3 +7,4 @@ mcr.microsoft.com/mssql/server:2022-latest
 python:3.11.9
 gitea/gitea
 neo4j
+mariadb:lts
